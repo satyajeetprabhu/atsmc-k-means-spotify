@@ -1,5 +1,4 @@
-# atsmc-k-means-spotify
-Demo: using K-Means clustering on a spotify playlist
+**Demo: using K-Means clustering on a spotify playlist**
 
 Based on the code from :
 
