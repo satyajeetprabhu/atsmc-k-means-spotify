@@ -1,4 +1,4 @@
-**Using K-Means clustering on a spotify playlist**
+**Demo : Using K-Means clustering on a spotify playlist**
 
 Based on the code from :
 
