@@ -27,4 +27,4 @@ You only need to do it the first time you request a new type of access, spotipy 
 
 3) The list of audio features that can be retrieved from Spotify's web API can be found here:
 
-https://developer.spotify.com/documentation/web-api/reference/get-audio-features
+https://developer.spotify.com/documentation/web-api/reference/get-several-audio-features
