@@ -6,9 +6,6 @@ https://medium.com/web-mining-is688-spring-2021/categorizing-music-using-k-means
 
 https://github.com/sejaldua/music-clustering/tree/master
 
-For Information on Setting up your credentials for Spotify Web API, you can visit: 
-
-https://developer.spotify.com/
 
 ***Quick-guide***
 
@@ -28,3 +25,7 @@ You only need to do it the first time you request a new type of access, spotipy 
 3) The list of audio features that can be retrieved from Spotify's web API can be found here:
 
 https://developer.spotify.com/documentation/web-api/reference/get-several-audio-features
+
+For more information on Spotify Web API, you can visit: 
+
+https://developer.spotify.com/
